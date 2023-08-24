@@ -1,5 +1,11 @@
 package main
 
+import (
+	"fmt"
+	"log"
+	"net"
+	"os"
+	"time")
 const {
 	HOST="localhost"
 	PORT="7777"
